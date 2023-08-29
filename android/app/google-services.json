@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1094044716947",
+    "firebase_url": "https://smarthome-2fbbd-default-rtdb.firebaseio.com",
+    "project_id": "smarthome-2fbbd",
+    "storage_bucket": "smarthome-2fbbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094044716947:android:039253ffd68dd093166266",
+        "android_client_info": {
+          "package_name": "com.example.kitchen_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094044716947-hvkmbg7lkb1luopi214i7lham793qocn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA73CWL0zxWs_cSwm-f73T1IC9zZwm-cVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094044716947-hvkmbg7lkb1luopi214i7lham793qocn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
